@@ -43,5 +43,6 @@ int main(){
 	for(i = 0 ; i < strongIndex ; i++){
 		printf(" %d",numbers[3][i]) ;
 	} 
+	printf("\n") ;
 }
 
